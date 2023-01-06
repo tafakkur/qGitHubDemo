@@ -1,0 +1,5 @@
+ResponseID,taskIndex,taskIdentifier,isMin,selectedValue,selectedIndex,timeLeft,timeTaken,startTime,endTime,qTaskIndex,qSelectedIndex
+R_ZsjIUo5W1QGsawp,0,D,false,14,7,179,2792,1673048191107,1673048193899,35,8
+R_ZsjIUo5W1QGsawp,1,C,false,28,27,176,2315,1673048194315,1673048196630,34,28
+R_ZsjIUo5W1QGsawp,2,A,false,75,15,174,1516,1673048197040,1673048198556,32,16
+R_ZsjIUo5W1QGsawp,3,J,false,43,13,171,2515,1673048198964,1673048201479,41,14
